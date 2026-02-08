@@ -15,7 +15,7 @@ It ensures safe container image promotions in Kubernetes manifests with policy c
 - ✅ Applies a **policy file** before manifest updates  
 - ✅ Creates **backups** before changes  
 
-----------
+-------------
 
 ## 🛠 Tech & Languages
 
