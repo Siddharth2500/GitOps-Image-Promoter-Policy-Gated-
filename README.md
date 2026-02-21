@@ -44,7 +44,7 @@ gitops-image-promoter/
 python
 Copy code
 
----
+------
 
 ## ▶️ Run in Google Colab
 
