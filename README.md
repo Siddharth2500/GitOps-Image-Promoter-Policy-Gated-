@@ -1,4 +1,4 @@
-# 🚀 GitOps Image Promoter  Policy-Gated Kubernetes Image Promotion
+# 🚀 GitOps Image Promoter - Policy-Gated Kubernetes Image Promotion
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Manifests-326CE5?logo=kubernetes)  
