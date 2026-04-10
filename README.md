@@ -128,7 +128,7 @@ Automate safe promotions in CI/CD pipelines
 
 Run demos in Google Colab with zero dependencies
 
--------
+---------
 
 ## 👤 Author
 Siddharth Raut — DevOps / Platform Engineer
