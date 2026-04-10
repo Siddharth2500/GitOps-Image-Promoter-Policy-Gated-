@@ -6,7 +6,7 @@
 ![GitOps](https://img.shields.io/badge/GitOps-ArgoCD/Flux-FF6F00?logo=git)  
 ![JUnit](https://img.shields.io/badge/Tests-JUnit_XML-25A162?logo=testcafe)  
 ![SupplyChain](https://img.shields.io/badge/SupplyChain-Attestations-4CAF50?logo=security)  
---------------------
+---------------------
 **GitOps Image Promoter** is a **Python 3** utility designed for DevOps/GitOps workflows.  
 It ensures safe container image promotions in Kubernetes manifests with policy checks:
 
