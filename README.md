@@ -28,7 +28,7 @@ It ensures safe container image promotions in Kubernetes manifests with policy c
 | GitOps       | ArgoCD / Flux   | Syncs manifests after commit             |
 | Deployment   | Kubernetes      | Manifest image tag updated in place      |
 
----
+------
 
 ## 📦 Repository Structure
 
